@@ -1,21 +1,13 @@
 <h1 align="center">Hi there, I'm Rojal Bajracharya 👋</h1> <h3 align="center">Flutter & Mobile Developer from Nepal 🇳🇵</h3> <p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Flutter+Developer;Kotlin+%26+Jetpack+Compose+Learner;Firebase+Enthusiast;Always+Building+Something+New" alt="Typing SVG" /> </p> <p align="center"> <a href="https://linkedin.com/in/rojal-bajracharya-98628a243" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="mailto:rojal.lajor@gmail.com"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a> </p>
 
-- 🔭 I’m currently working on **Flutter-based mobile applications**
-- 🌱 Currently learning **Kotlin & Jetpack Compose** for native Android development
-- 👯 Open to collaborating on **Flutter and Android projects**
-- 💬 Ask me about **Flutter, Kotlin, Firebase, and Mobile App Development**
-- 📫 Reach me at: **rojal.lajor@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-
-<p align="left">
-  <a href="https://linkedin.com/in/rojal-bajracharya-98628a243" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Rojal Bajracharya" height="30" width="40" />
-  </a>
-</p>
+- I’m currently working on **Flutter-based mobile applications**
+- Currently learning **Kotlin & Jetpack Compose** for native Android development
+- Open to collaborating on **Flutter and Android projects**
+- Ask me about **Flutter, Kotlin, Firebase, and Mobile App Development**
+- Reach me at: **rojal.lajor@gmail.com**
 
 
 <p align="left"> <b>Languages</b><br><br> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" alt="kotlin" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </p> <p align="left"> <b>Frameworks & Libraries</b><br><br> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" alt="Jetpack Compose" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </p> <p align="left"> <b>Tools & Platforms</b><br><br> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </p>
 
-<p align="center"> <i>Thanks for stopping by — feel free to connect and collaborate! 🚀</i> </p>
+<p align="center"> <i>Thanks for stopping by — feel free to connect and collaborate!</i> </p>
 
